@@ -1,0 +1,27 @@
+{
+    "name": "omnipay/cash",
+    "type": "library",
+    "description": "Cash manual driver for the Omnipay payment processing library",
+    "homepage": "https://github.com/RazmikSaghoyan/omnipay-cash",
+    "license": "MIT",
+    "keywords": [
+        "gateway",
+        "cash",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment"
+    ],
+    "authors": [
+        {
+            "name": "Razmik Saghoyan",
+            "email": "razmiksaghoyan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Manual\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "^2.0||^3.0"
+    }
+}
