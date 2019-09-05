@@ -1,5 +1,5 @@
 {
-    "name": "cash/payment",
+    "name": "omnipay/cash",
     "type": "library",
     "description": "Cash manual driver for the Omnipay payment processing library",
     "homepage": "https://github.com/RazmikSaghoyan/cash-payment",
